@@ -46,7 +46,9 @@ The Tableau dashboards provide visualization for both customer segmentation and 
 - **Understand Customer Behaviour**. Depending on RFM segment, key metrics such as spending and frequency of transactions are visually represented. The dashboard also visualizes the customers’ behaviour depending on their income level and age. 
 - **Evaluate Reward Program Success**. The dashboard tracks key metrics such as customer response rate, offer completion rate, and customer engagement with specific offers. 
 
-![]()
+![](https://github.com/MariaSozinova/Cafe-Reward-Program-Analysis/blob/main/assets/Reward%20Offer%20Dashboard.jpg)
+
+![](https://github.com/MariaSozinova/Cafe-Reward-Program-Analysis/blob/main/assets/Customer%20Segmentation%20Dashboard.jpg)
 
 ## Key Findings
 
