@@ -1,5 +1,6 @@
 # Cafe-Reward-Program-Analysis
 Data Analysis and Dashboard (Python and Tableau)
+Link to Project Dashboards on Tableau Public: https://public.tableau.com/views/RewardAnalysis/RewardProgramAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Overview
 
