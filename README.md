@@ -1,5 +1,6 @@
 # Cafe-Reward-Program-Analysis
 Data Analysis and Dashboard (Python and Tableau)
+
 Link to Project Dashboards on Tableau Public: https://public.tableau.com/views/RewardAnalysis/RewardProgramAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Overview
@@ -44,6 +45,8 @@ Using these criteria, the customers were divided into 8 groups, each representin
 The Tableau dashboards provide visualization for both customer segmentation and the performance of the reward program. These dashboards will allow stakeholders to:
 - **Understand Customer Behaviour**. Depending on RFM segment, key metrics such as spending and frequency of transactions are visually represented. The dashboard also visualizes the customers’ behaviour depending on their income level and age. 
 - **Evaluate Reward Program Success**. The dashboard tracks key metrics such as customer response rate, offer completion rate, and customer engagement with specific offers. 
+
+![]()
 
 ## Key Findings
 
