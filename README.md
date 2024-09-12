@@ -1,7 +1,7 @@
 # Cafe-Reward-Program-Analysis
 Data Analysis and Dashboard (Python and Tableau)
 
-Link to Project Dashboards on Tableau Public: https://public.tableau.com/views/RewardAnalysis/RewardProgramAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Link to Project Dashboards on Tableau Public**: https://public.tableau.com/views/RewardAnalysis/RewardProgramAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Overview
 
@@ -10,7 +10,8 @@ This project focuses on evaluating the effectiveness of promotional offers and u
 
 ## Data Source
 
-The data for this project can be found at https://www.mavenanalytics.io/data-playground.
+The data for this project can be found at https://www.mavenanalytics.io/data-playground
+
 The link for downloading zip archive: https://maven-datasets.s3.amazonaws.com/Cafe+Rewards+Offers/Cafe+Rewards+Offers.zip
 
  
@@ -46,9 +47,9 @@ The Tableau dashboards provide visualization for both customer segmentation and 
 - **Understand Customer Behaviour**. Depending on RFM segment, key metrics such as spending and frequency of transactions are visually represented. The dashboard also visualizes the customers’ behaviour depending on their income level and age. 
 - **Evaluate Reward Program Success**. The dashboard tracks key metrics such as customer response rate, offer completion rate, and customer engagement with specific offers. 
 
-![](https://github.com/MariaSozinova/Cafe-Reward-Program-Analysis/blob/main/assets/Reward%20Offer%20Dashboard.jpg)
-
 ![](https://github.com/MariaSozinova/Cafe-Reward-Program-Analysis/blob/main/assets/Customer%20Segmentation%20Dashboard.jpg)
+
+![](https://github.com/MariaSozinova/Cafe-Reward-Program-Analysis/blob/main/assets/Reward%20Offer%20Dashboard.jpg)
 
 ## Key Findings
 
